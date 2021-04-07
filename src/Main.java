@@ -5,7 +5,7 @@ public class Main {
     static Scanner teclado = new Scanner(System.in);
 
     public static void main(String[] args){
-        System.out.println("Bienvenido a la calculiadora");
+        System.out.println("Bienvenido a la calculadora");
         ingresarNumeros();
         out1:
         while (true) {
